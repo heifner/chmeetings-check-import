@@ -1,0 +1,21 @@
+# Output files
+contributions_*.xlsx
+*_debug.json
+sample_output.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive data - never commit check PDFs or contacts
+*.pdf
