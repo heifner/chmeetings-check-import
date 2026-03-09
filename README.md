@@ -1,6 +1,7 @@
 # CHMeetings Check Import
 
 Extract contribution data from scanned check images in a PDF and produce an Excel file ready to import into [CHMeetings](https://www.chmeetings.com/) under **Contributions → Import**.
+Evernote does a particularly good job of scaning checks into a document that can then be saved to a PDF.
 
 All processing runs locally on your machine — nothing is uploaded to the cloud.
 
